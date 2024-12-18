@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="60" height="51">
+<path d="M0 0 C19.8 0 39.6 0 60 0 C60 16.83 60 33.66 60 51 C40.2 51 20.4 51 0 51 C0 34.17 0 17.34 0 0 Z " fill="#F8FEFD" transform="translate(0,0)"/>
+<path d="M0 0 C1.98 0.495 1.98 0.495 4 1 C4 2.32 4 3.64 4 5 C2.35 5 0.7 5 -1 5 C-0.67 3.35 -0.34 1.7 0 0 Z " fill="#E5F0EE" transform="translate(38,30)"/>
+<path d="M0 0 C1.98 0.495 1.98 0.495 4 1 C3.67 2.32 3.34 3.64 3 5 C1.68 5 0.36 5 -1 5 C-0.67 3.35 -0.34 1.7 0 0 Z " fill="#E3F0ED" transform="translate(38,43)"/>
+<path d="M0 0 C1.98 0.495 1.98 0.495 4 1 C4 2.32 4 3.64 4 5 C2.35 4.67 0.7 4.34 -1 4 C-0.67 2.68 -0.34 1.36 0 0 Z " fill="#E4F0ED" transform="translate(23,30)"/>
+<path d="M0 0 C1.98 0.495 1.98 0.495 4 1 C3.67 2.32 3.34 3.64 3 5 C1.68 4.67 0.36 4.34 -1 4 C-0.67 2.68 -0.34 1.36 0 0 Z " fill="#E4F0ED" transform="translate(23,43)"/>
+<path d="M0 0 C1.98 0.495 1.98 0.495 4 1 C3.67 2.32 3.34 3.64 3 5 C1.68 4.67 0.36 4.34 -1 4 C-0.67 2.68 -0.34 1.36 0 0 Z " fill="#E6F0ED" transform="translate(38,4)"/>
+<path d="M0 0 C1.98 0.495 1.98 0.495 4 1 C3.67 2.32 3.34 3.64 3 5 C1.68 4.67 0.36 4.34 -1 4 C-0.67 2.68 -0.34 1.36 0 0 Z " fill="#E5F1EE" transform="translate(23,4)"/>
+<path d="M0 0 C1.98 0.495 1.98 0.495 4 1 C3.67 2.32 3.34 3.64 3 5 C1.68 4.67 0.36 4.34 -1 4 C-0.67 2.68 -0.34 1.36 0 0 Z " fill="#E3EFED" transform="translate(38,17)"/>
+<path d="M0 0 C0.99 0.33 1.98 0.66 3 1 C2.67 2.32 2.34 3.64 2 5 C0.68 4.67 -0.64 4.34 -2 4 C-2 3.01 -2 2.02 -2 1 C-1.34 0.67 -0.68 0.34 0 0 Z " fill="#E4F0ED" transform="translate(24,17)"/>
+<path d="M0 0 C1.32 0.66 2.64 1.32 4 2 C3.67 2.99 3.34 3.98 3 5 C1.68 5 0.36 5 -1 5 C-0.67 3.35 -0.34 1.7 0 0 Z " fill="#E5F0ED" transform="translate(9,17)"/>
+<path d="M0 0 C0.99 0 1.98 0 3 0 C3 1.65 3 3.3 3 5 C1.68 5 0.36 5 -1 5 C-0.67 3.35 -0.34 1.7 0 0 Z " fill="#E1EFEB" transform="translate(53,43)"/>
+<path d="M0 0 C0.99 0 1.98 0 3 0 C3 1.65 3 3.3 3 5 C1.68 5 0.36 5 -1 5 C-0.67 3.35 -0.34 1.7 0 0 Z " fill="#E6EFED" transform="translate(53,4)"/>
+<path d="M0 0 C0.99 0.33 1.98 0.66 3 1 C3 2.32 3 3.64 3 5 C1.68 5 0.36 5 -1 5 C-0.67 3.35 -0.34 1.7 0 0 Z " fill="#E1EFEC" transform="translate(9,43)"/>
+<path d="M0 0 C0.99 0 1.98 0 3 0 C3 1.65 3 3.3 3 5 C1.68 4.67 0.36 4.34 -1 4 C-0.67 2.68 -0.34 1.36 0 0 Z " fill="#E3EFEC" transform="translate(53,30)"/>
+<path d="M0 0 C0.99 0.33 1.98 0.66 3 1 C3 2.32 3 3.64 3 5 C1.68 5 0.36 5 -1 5 C-0.67 3.35 -0.34 1.7 0 0 Z " fill="#E3EEEB" transform="translate(9,30)"/>
+<path d="M0 0 C0.99 0.33 1.98 0.66 3 1 C3 2.32 3 3.64 3 5 C1.68 5 0.36 5 -1 5 C-0.67 3.35 -0.34 1.7 0 0 Z " fill="#E5EEEC" transform="translate(53,17)"/>
+</svg>
